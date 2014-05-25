@@ -2,7 +2,6 @@
 
 ### The Following activities are performed in run_analysis
 #### Reading the dataset
-
 1.	Read training readings
 2.	read training subjects
 3.	read training activities
