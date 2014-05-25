@@ -1,6 +1,7 @@
 ## Course Project for Getting and Cleaning Data
 
 ### The Following activities are performed in run_analysis
+
 #### Reading the dataset
 1.	Read training readings
 2.	read training subjects
@@ -10,6 +11,7 @@
 6.	read test subjects
 7.	read test activities
 8.	combine readings, activities and subjects for test
+
 #### Transformations
 1.	Merges the training and the test sets to create one data set.
 2.	Read features.txt to get the indexes of "mean" and "stddev"
